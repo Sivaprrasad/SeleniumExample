@@ -19,6 +19,7 @@ public class SeleniumDemo {
 		
 				driver.get("https://www.seleniumeasy.com/test/basic-first-form-demo.html");
 				
+			
 		// 3. write code to do some stuff on that website
 				
 			// 3a.  type some nonsense into the single input box
